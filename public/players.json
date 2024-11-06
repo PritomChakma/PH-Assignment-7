@@ -1,0 +1,92 @@
+[
+  {
+    "playerId": 1,
+    "name": "John Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/pyj6QWg/ecfa9b6eb2c457452868ac1a9f529345.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1200
+  },
+  {
+    "playerId": 2,
+    "name": "Rahul Sharma",
+    "country": "India",
+    "image": "https://i.ibb.co.com/DKdzcp0/1647365891-7103.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 9000
+  },
+  {
+    "playerId": 3,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/fQfRxJP/david-warner-ready-to-test-cricket-return-offers-to-fill-australias-opening-slot-against-india.webp",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1500
+  },
+  {
+    "playerId": 4,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/3NTxQm0/kagiso-rabada-1716624652075-large.webp",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1400
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/mXfXzTr/Whats-App-Image-2024-05-31-at-01-20-04.webp",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 1600
+  },
+  {
+    "playerId": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/8mFzBgk/Untitled-design.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1300
+  },
+  {
+    "playerId": 7,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/vmZtFKp/1708675791663-images-2024-02-23-T133026-611.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1250
+  },
+  {
+    "playerId": 8,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/kDjzYYG/images-2.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1700
+  },
+  {
+    "playerId": 9,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/hMxW2sd/Williamson-1200x768.webp",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1100
+  }
+]
